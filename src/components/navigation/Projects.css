@@ -12,11 +12,11 @@
   flex-wrap: wrap;
   padding: 5rem auto;
   gap: 1rem;
-  cursor: pointer;
 }
 .image-container {
   position: relative;
   overflow: hidden;
+  cursor: pointer;
 }
 .image-container img {
   height: 260px;
