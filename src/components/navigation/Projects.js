@@ -15,7 +15,7 @@ const Projects = () => {
       <div className="projects-container">
         <div className="project-container">
           <div className="image-container">
-            <img src={project1} alt="proj-image" />
+            <img src={project1} alt="proj" />
             <div className="project-info" onMouseOver={hover}>
               <h3>Calculator App</h3>
               <div className="tools">
@@ -42,7 +42,7 @@ const Projects = () => {
         </div>
         <div className="project-container">
           <div className="image-container">
-            <img src={project3} alt="proj-image" />
+            <img src={project3} alt="proj" />
             <div className="project-info">
               <h3>Tod Do App</h3>
               <div className="tools">
@@ -70,7 +70,7 @@ const Projects = () => {
         </div>
         <div className="project-container">
           <div className="image-container">
-            <img src={project2} alt="proj-image" />
+            <img src={project2} alt="proj" />
             <div className="project-info">
               <h3>5 Pages Website</h3>
               <div className="tools">
@@ -94,7 +94,7 @@ const Projects = () => {
         </div>
         <div className="project-container">
           <div className="image-container">
-            <img src={project4} alt="proj-image" />
+            <img src={project4} alt="proj" />
             <div className="project-info">
               <h3>React Website</h3>
               <div className="tools">
@@ -105,7 +105,10 @@ const Projects = () => {
                 <span>router</span>
               </div>
               <div className="project-links">
-                <a href="https://arbieabesamis27.github.io/" target="_blank">
+                <a
+                  href="https://kodego-group-project-2-2msg72cy9-arbieabesamis27.vercel.app/"
+                  target="_blank"
+                >
                   Live Demo
                 </a>
                 <a
