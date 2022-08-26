@@ -106,7 +106,7 @@ const Projects = () => {
               </div>
               <div className="project-links">
                 <a
-                  href="https://kodego-group-project-2-2msg72cy9-arbieabesamis27.vercel.app/"
+                  href="https://kodego-group-project-2.vercel.app/"
                   target="_blank"
                 >
                   Live Demo
