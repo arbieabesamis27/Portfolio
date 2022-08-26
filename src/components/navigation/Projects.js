@@ -112,7 +112,7 @@ const Projects = () => {
                   Live Demo
                 </a>
                 <a
-                  href="https://github.com/arbieabesamis27/arbieabesamis27.github.io"
+                  href="https://github.com/arbieabesamis27/Kodego-Group-Project-2"
                   target="_blank"
                 >
                   Code
